@@ -1,0 +1,11 @@
+biblioteca\dao\usuarioDAO.class
+biblioteca\model\Pessoa.class
+biblioteca\dao\livroDAO.class
+biblioteca\model\Livro.class
+com\mycompany\biblioteca\BibliotecaAPP.class
+biblioteca\model\Funcionario.class
+biblioteca\dao\conexao.class
+biblioteca\dao\emprestimoDAO.class
+biblioteca\model\Emprestimo.class
+biblioteca\model\Usuario.class
+biblioteca\dao\funcionarioDAO.class
